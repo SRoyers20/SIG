@@ -1,0 +1,7 @@
+<div class="card">
+<h2>Avatar Pixel Art - </h2>
+<div class="avatar-container">
+<img id="avatar-img" src="https://raw.githubusercontent.com/HaroldSthid/VibePixel-AcademyBabyStepsTech/main/artifacts/colab/Avatar_LISBEL.gif" alt="Avatar">
+<p id="avatar-status" class="status" hidden>No pudimos cargar el avatar. Revisá que la URL sea pública.</p>
+</div>
+</div>
